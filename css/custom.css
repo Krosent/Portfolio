@@ -1,0 +1,35 @@
+
+header {
+    background-image: url('../img/web-design.jpg') !important;
+}
+header .intro-text .intro-lead-in {
+    color:white;
+    font-family: 'Marck Script', cursive;
+    font-size: 50px;
+    /*background-color: rgba(217, 204, 191,0.5);*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+header .intro-lead-in{
+    width:800px;
+    margin:0 auto;
+}
+
+header .intro-text .intro-heading {
+    font-family: 'Exo 2', sans-serif;
+    /*font-weight: 700;*/
+    font-size: 40px;
+    color:#1aa3ff;
+}
+.name{
+    color:#0066ff;
+}
+
+.navbar-custom .nav li a {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: white;
+}
